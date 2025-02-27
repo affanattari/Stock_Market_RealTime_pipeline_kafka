@@ -1,6 +1,9 @@
 # Stock_Market_RealTime_pipeline_kafka
 End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
 This Stock Market Kafka Real-Time Data Engineering Project involves processing stock market data using Apache Kafka and AWS services.
+![Uploading Architecture.jpg…]()
+
+
 
  # Workflow Overview:
 1. Producer (Stock Market Simulation & Kafka Integration)
