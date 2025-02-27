@@ -21,4 +21,4 @@ Amazon Athena enables querying stock data using SQL for analysis and insights.
 This project demonstrates an end-to-end real-time data pipeline using Kafka and AWS, enabling stock market analysis, trend detection, and decision-making.
 
 # Dataset - 
-https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data
+https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data?select=indexProcessed.csv
